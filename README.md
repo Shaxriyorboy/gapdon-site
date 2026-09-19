@@ -19,9 +19,9 @@ Push to `main`, then in the repo: **Settings → Pages → Source: Deploy from a
 
 ## Notes
 
-- **No payment/billing content anywhere** — in-app coin purchases do not exist yet. When
-  billing ships, the Privacy Policy needs a payments section (what the payment provider
-  receives, purchase history, refunds) before the store listing can advertise purchases.
+- Billing is covered: the Privacy Policy has a "Purchases and coin balance" section (App
+  Store / Google Play / Click / Payme; we never store card data). Keep it in sync with the
+  App Store "App Privacy" answers and the Play "Data safety" form whenever billing changes.
 - Contact address used on both pages: `shaxriyortursunaliyev17@gmail.com`. Change it in
   all three language blocks of `privacy/index.html` and `support/index.html` if it moves to
   a domain mailbox.
